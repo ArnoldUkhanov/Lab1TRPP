@@ -14,3 +14,4 @@ for i in range(n):
 print("Массив:")
 for x in arr:
     print(x, end=" ")
+print('строчка очень крутая строчка')
